@@ -16,7 +16,7 @@ classification model of informative reviews [review classification](https://hugg
 
 user review and update log: [data](https://github.com/qcy321/SAVED/releases/download/Data/data.zip)
 
-Put the `chinese-roberta-wwm-ext-large`  and the  `data` into the `codes` directory, the `review classification` put into `01_preprocess&classification/model_output` directory.
+Put the `chinese-roberta-wwm-ext-large`  and the  `data` into the `SAVED-master` directory, the `review classification` put into `01_preprocess&classification/model_output` directory.
 
 #### 2.Data Preprocessing
 
